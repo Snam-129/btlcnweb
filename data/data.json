@@ -1,0 +1,175 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "img": "/images/cc.jpg",
+      "title": "C++ Data Structures & Algorithms + LEETCODE Exercises",
+      "category": "C & C++, GIT , Data Structure And Algorithm",
+      "content": [
+        "Solve 96 coding exercises to ace DSA interviews with confidence.",
+        "Think like a pro coder to tackle complex problems efficiently.",
+        "Master data structures—linked lists, trees, heaps, graphs—for practical use.",
+        "Learn algorithms—sorting, recursion, dynamic programming—with clarity.",
+        "Analyze time and space complexity to optimize your coding solutions.",
+        "Grasp DSA concepts faster with animated examples for deeper insight.",
+        "Apply DSA to solve LeetCode challenges and practical coding problems.",
+        "Boost your developer skills to excel in technical interviews confidently."
+      ]
+    },
+    {
+      "id": "2",
+      "img": "/images/c_coban.jpg",
+      "title": "Lập trình C cơ bản",
+      "category": "C & C++, GIT , Data Structure And Algorithm",
+      "content": [
+        "Nắm được các kiến thức và kỹ thuật cơ bản của ngôn ngữ lập trình C",
+        "Nắm được các kiến thức lập trình cơ bản",
+        "Vận dụng được kiến thức tiếp thu được thông qua các bài tập và dự án",
+        "Định hướng phát triển tư duy lập trình",
+        "Xây dựng nền tảng lập trình chuyên nghiệp cho người mới bắt đầu."
+      ]
+    },
+    {
+      "id": "3",
+      "img": "/images/frontend1.jpg",
+      "title": "Advanced CSS and Sass: Flexbox, Grid, Animations and More!",
+      "category": "Front-end",
+      "content": [
+        "Tons of modern CSS techniques to create stunning designs and effects",
+        "Advanced CSS animations with @keyframes, animation and transition",
+        "How CSS works behind the scenes: the cascade, specificity, inheritance, etc.",
+        "CSS architecture: component-based design, BEM, writing reusable code, etc.",
+        "Flexbox layouts: build a huge real-world project with flexbox",
+        "CSS Grid layouts: build a huge real-world project with CSS Grid",
+        "Using Sass in real-world projects: global variables, architecting CSS, managing media queries, etc.",
+        "Advanced responsive design: media queries, mobile-first vs desktop-first, em vs rem units, etc.",
+        "Responsive images in HTML and CSS for faster pageloads",
+        "SVG images and videos in HTML and CSS: build a background video effect",
+        "The NPM ecosystem: development workflows and building processes",
+        "Get friendly and fast support in the course Q&A",
+        "Downloadable lectures, code and design assets for all projects"
+      ]
+    },
+    {
+      "id": "4",
+      "img": "/images/frontend2.jpg",
+      "title": "React Native – The Practical Guide [2025]",
+      "category": "Front-end",
+      "content": [
+        "Learn how to use ReactJS to build real native mobile apps for iOS and Android",
+        "Develop cross-platform (iOS and Android) mobile apps without knowing Swift, ObjectiveC or Java/ Android",
+        "Explore React Native basics and advanced features!",
+        "Learn how to use key mobile app features like Google maps or the device camera"
+      ]
+    },
+    {
+      "id": "5",
+      "img": " /images/Backen1.jpg",
+      "title": "Java Programming: A Comprehensive Bootcamp from Zero to Hero",
+      "category": "Back-end",
+      "content": [
+        "Java basics including OOPs principles, Keywords, Operators, Objects, Classes, Methods, Constructors, Control flow statements, Loops, Inheritance, Interface etc.",
+        "Java intermediate concepts including Exceptional handling, Wrapper Classes, Collections, Enums, Date and Time API",
+        "Java advance concepts including Generics, Functional Programming, Lambda Expressions, Functional Interfaces, Method References, Streams API, Multi Threading",
+        "Achieve professional proficiency in Java programming",
+        "Gain practical expertise by completing over 100 coding exercises",
+        "Master Java best practices guided by an experienced developer"
+      ]
+    },
+    {
+      "id": "6",
+      "img": "/images/Backen2.jpg",
+      "title": "[NEW] Master Spring 6, Spring Boot 3, REST, JPA, Hibernate",
+      "category": "Back-end",
+      "content": [
+        "What is Spring & different projects inside Spring ecosystem",
+        "Spring Core Concepts like Inversion of Control (IoC), Dependency Injection (DI) & Aspect-Oriented Programming (AOP)",
+        "How to build web applications using Spring MVC",
+        "How to build web applications using Spring Boot",
+        "Securing Web applications using Spring Security",
+        "Database operations using Spring JDBC, Spring Data JPA, Hibernate",
+        "Building & Consuming REST services using SpringBoot",
+        "Spring Data Rest, Spring Boot Actuator",
+        "Logging and properties configuration inside Spring Boot applications",
+        "Spring Boot profiles"
+      ]
+    },
+    {
+      "id": "7",
+      "img": "/images/data1.jpg",
+      "title": "The Data Analyst Course: Complete Data Analyst Bootcamp",
+      "category": "Data Analyst, Data Engineer",
+      "content": [
+        "The course provides the complete preparation you need to become a data analyst",
+        "Fill up your resume with in-demand data skills: Python programming, NumPy, pandas, data preparation – data collection, data cleaning, data preprocessing, data visualization; data analysis, data analytics",
+        "Acquire a big picture understanding of the data analyst role",
+        "Learn beginner and advanced Python",
+        "Study mathematics for Python",
+        "We will teach you NumPy and pandas, basics and advanced",
+        "Be able to work with text files",
+        "Understand different data types and their memory usage",
+        "Learn how to obtain interesting, real-time information from an API with a simple script",
+        "Clean data with pandas Series and DataFrames",
+        "Complete a data cleaning exercise on absenteeism rate",
+        "Expand your knowledge of NumPy – statistics and preprocessing",
+        "Go through a complete loan data case study and apply your NumPy skills",
+        "Master data visualization",
+        "Learn how to create pie, bar, line, area, histogram, scatter, regression, and combo charts",
+        "Engage with coding exercises that will prepare you for the job",
+        "Practice with real-world data",
+        "Solve a final capstone project"
+      ]
+    },
+    {
+      "id": "8",
+      "img": "/images/data2.jpg",
+      "title": "Statistics for Data Science and Business Analysis",
+      "category": "Data Analyst, Data Engineer",
+      "content": [
+        "Understand the fundamentals of statistics",
+        "Learn how to work with different types of data",
+        "How to plot different types of data",
+        "Calculate the measures of central tendency, asymmetry, and variability",
+        "Calculate correlation and covariance",
+        "Distinguish and work with different types of distributions",
+        "Estimate confidence intervals",
+        "Perform hypothesis testing",
+        "Make data driven decisions",
+        "Understand the mechanics of regression analysis",
+        "Carry out regression analysis",
+        "Use and understand dummy variables",
+        "Understand the concepts needed for data science even with Python and R!"
+      ]
+    },
+    {
+      "id": "9",
+      "img": "/images/AI1.jpg",
+      "title": "Complete A.I. & Machine Learning, Data Science Bootcamp",
+      "category": "AI",
+      "content": [
+        "Data Science and Machine Learning course, designed for both complete beginners and those with prior experience, aiming to turn you into a professional engineer capable of working at top tech companies like Google, Amazon, Meta, IBM, and more.",
+        "The course is taught by Andrei Neagoie (former senior developer in Silicon Valley) and Daniel Bourke (Machine Learning Engineer with real-world experience across multiple industries in Australia), known for their clear, engaging, and practical teaching styles.",
+        "Core machine learning concepts are thoroughly covered, including Classification, Regression, Time Series, SVM, KNN, Decision Trees, Random Forests, Ensemble Learning, Hyperparameter Tuning, and Cross-Validation.",
+        "The course guides you through the entire data workflow, including data cleaning, data visualization, working with CSVs, and communicating your results effectively in a professional setting.",
+        "All course resources—including source code, Jupyter Notebooks, and cheatsheets—are provided, enabling you to practice independently and build a strong personal portfolio.",
+        "The course emphasizes true understanding over rote learning, with a separate path for absolute beginners (teaching Python from scratch) and a fast-track option for experienced learners.",
+        "By the end of the course, you will have the knowledge, skills, and project experience needed to confidently apply for Data Science and Machine Learning roles in the real world."
+      ]
+    },
+    {
+      "id": "10",
+      "img": "/images/Ai2.jpg",
+      "title": "Deep Learning A-Z 2024: Neural Networks",
+      "category": "AI",
+      "content": [
+        "Deep Learning plays a central role in modern Artificial Intelligence, enabling the solution of complex problems such as autonomous driving, image recognition, and medical diagnostics.",
+        "The course 'Deep Learning A-Z' is designed as a comprehensive and practical program, covering both theoretical foundations and real-world applications of Deep Learning.",
+        "A clear and well-organized structure divides the course into two main branches: Supervised and Unsupervised Deep Learning, each focusing on three core algorithms for easier mastery.",
+        "Intuitive explanations are provided for core algorithms such as Artificial Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks, Self-Organizing Maps, Boltzmann Machines, and Stacked Autoencoders.",
+        "Emphasis is placed on developing intuitive understanding rather than rote learning of theory or code, allowing learners to grasp the logic behind each algorithm.",
+        "Real-world datasets are used instead of outdated examples, enhancing the practical relevance and business value of each project.",
+        "Real-world projects include customer churn prediction, image classification (cats vs dogs), stock price forecasting, credit card fraud detection, and building movie recommender systems."
+      ]
+    }
+  ]
+}
