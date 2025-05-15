@@ -19,7 +19,7 @@ const CourseList = () => {
       }
     }
     fetchDetails()
-  }, [params.id])
+  }, [])
 
 
   const [searchTerm, setSearchTerm] = useState('');
