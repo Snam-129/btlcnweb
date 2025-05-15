@@ -19,7 +19,7 @@ const Lates = () => {
         }
       }
       fetchDetails()
-    }, [params.id])
+    }, [])
     
 
   return (
